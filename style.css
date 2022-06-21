@@ -49,14 +49,24 @@ header {
     font-family: 'Newsreader', serif;
     font-size: 28px;
     font-weight: 700;
-    color: #965454;
-    /* TODO: Add Positioning */ 
+    color: #965454; 
+    position: absolute;
+    width: 600px;
+    height: 128px;
+    left: 143px;
+    top: 284px;
 }
 
 .subheading {
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 400;
     color: #000;
-    /* TODO: Add positioning */
+    position: absolute;
+    width: 390px;
+    height: 84px;
+    left: 143px;
+    top: 440px;
+    line-height: 42px;
 }
+
