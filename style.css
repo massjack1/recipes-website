@@ -44,3 +44,19 @@ header {
 .nav_links li a:hover {
     color: #0088a9;
 }
+
+.heading {
+    font-family: 'Newsreader', serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #965454;
+    /* TODO: Add Positioning */ 
+}
+
+.subheading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    /* TODO: Add positioning */
+}
