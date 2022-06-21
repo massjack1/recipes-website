@@ -16,6 +16,7 @@ li, a, button {
     font-size: 24px;
     color: 000;
     text-decoration: none;
+    /* TODO: Add changes so changes does not affect all anchor tags (buttons)*/
 }
 header {
     display: flex;
@@ -70,3 +71,17 @@ header {
     line-height: 42px;
 }
 
+.hero-btn-1 {
+    box-sizing: border-box;
+    position: absolute;
+width: 146px;
+height: 56px;
+left: 143px;
+top: 552px;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #1E5CA6;
+/* TODO: Finish styling both buttons */
+}
