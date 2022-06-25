@@ -87,7 +87,7 @@ color: #000000;
   box-sizing: border-box;
   position: absolute;
   left: 143px;
-  top: 552px;
+  top: 530px;
 }
 
 .cta-btn-1:hover {
@@ -113,7 +113,13 @@ color: #000000;
     box-sizing: border-box;
     position: absolute;
     left: 323px;
-    top: 552px;
+    top: 530px;
+}
 
+.cta-btn-2:hover {
+    background-color: #4385d4;
+}
 
+.cta-btn-1, .cta-btn-2 {
+    
 }
