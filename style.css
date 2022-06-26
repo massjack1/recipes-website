@@ -50,7 +50,7 @@ top: 284px;
 font-family: 'Newsreader', serif;
 font-style: normal;
 font-weight: 700;
-font-size: 64px;
+font-size: 60px;
 line-height: 64px;
 color: #965454;
 }
@@ -118,4 +118,9 @@ color: #000000;
 
 .cta-btn-2:hover {
     background-color: #4385d4;
+}
+
+.hero-image {
+    float: right;
+    padding: 0 20px 20px 0;
 }
