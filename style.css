@@ -16,6 +16,7 @@
 .container{
     margin: 0 auto;
     max-width: 1140px;
+    height: 60vh;
 }
 
 .navbar {
@@ -189,7 +190,6 @@ color: #000000;
     text-align: center;
     width: 200px;
     margin: auto;
-
 }
 
 .card-3 {
@@ -213,5 +213,4 @@ color: #000000;
     text-align: center;
     width: 200px;
     margin: auto;
-
 }
