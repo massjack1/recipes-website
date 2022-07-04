@@ -10,9 +10,6 @@
     padding: 0;
     text-decoration: none;
 }
-.section {
-    height: 100vh;
-}
 .container{
     margin: 0 auto;
     max-width: 1140px;
@@ -141,10 +138,18 @@ color: #000000;
     left: 139px;
     top: 491px;
 }
-
+.card__image-5{
+    flex:0 0 250px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border-radius: 15px 15px 0 0;
+}
 .card__image-1,
 .card__image-2, 
-.card__image-3 {
+.card__image-3,
+.card__image-4,
+.card__image-6 {
     flex: 0 0 250px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -154,7 +159,10 @@ color: #000000;
 
 .card__snippet-1, 
 .card__snippet-2, 
-.card__snippet-3 {
+.card__snippet-3,
+.card__snippet-4,
+.card__snippet-5,
+.card__snippet-6 {
     font-family: "Poppins", sans-serif;
     font-size: 16px;
     color: #000;
@@ -213,4 +221,76 @@ color: #000000;
     text-align: center;
     width: 200px;
     margin: auto;
+}
+
+.card__title-4 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    color: #C60077;
+    font-weight: 500;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+
+.card-4 {
+    display: flex;
+    flex-direction: column;
+    max-width: 275px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    position: absolute;
+    width: 330px;
+    height: 380px;
+    left: 139px;
+    top: 491px;
+}
+
+.card-5 {
+    display: flex;
+    flex-direction: column;
+    max-width: 275px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    position: absolute;
+    width: 330px;
+    height: 380px;
+    left: 591px;
+    top: 491px;
+}
+
+.card-6 {
+    display: flex;
+    flex-direction: column;
+    max-width: 275px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    position: absolute;
+    width: 330px;
+    height: 380px;
+    left: 1043px;
+    top: 491px;
+}
+
+.card__title-5 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    color: #882100;
+    font-weight: 500;
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+
+.card__title-6 {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    color: #C15D00;
+    font-weight: 500;
+    text-align: center;
+    width: 200px;
+    margin: auto; 
 }
