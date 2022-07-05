@@ -572,3 +572,124 @@ li {
     left: 681px;
     top: 3340px;
 }
+
+.header-2 {
+    position: absolute;
+    width: 600px;
+    text-align: center; 
+    height: 60px;
+    left: 110px;
+    top: 318px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    color: #000;
+}
+
+.ingredientsText-2 {
+    position: absolute;
+    width: 945px;
+    height: 954px;
+    left: 281px;
+    top: 1100px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    color: #000000;
+}
+
+.instructionsText-2 {
+    position: absolute;
+    width: 945px;
+    height: 954px;
+    left: 281px;
+    top: 2090px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    color: #000000;
+}
+
+.step-1-1 {
+    position: absolute;
+    width: 945px;
+    height: 954px;
+    left: 281px;
+    top: 2220px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.text-1-1 {
+    position: absolute;
+    width: 945px;
+    height: 954px;
+    left: 281px;
+    top: 2280px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #4A90B7;
+}
+
+.step-5 {
+    position: absolute;
+    width: 945px;
+    height: 954px;
+    left: 281px;
+    top: 3200px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.text-5 {
+    position: absolute;
+    width: 945px;
+    height: 954px;
+    left: 281px;
+    top: 3300px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #4A90B7;
+}
+
+.top-2 {
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background: linear-gradient(274.81deg, #b34d12 8.46%, rgba(133, 78, 6, 0.31) 117.06%);
+    box-shadow: 
+    0px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 15px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    /* Button 2 Position */
+    box-sizing: border-box;
+    position: absolute;
+    left: 681px;
+    top: 3700px;
+}
+
