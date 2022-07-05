@@ -397,6 +397,13 @@ li {
     top: 191px;
 }
 
+.row-img-2 {
+    position: absolute;
+    max-width: 100%;
+    height: auto;
+    left: 760px;
+    top: 191px; 
+}
 .ingredientsText {
     position: absolute;
     width: 229px;
@@ -932,3 +939,4 @@ li {
     left: 681px;
     top: 2900px;
 }
+
